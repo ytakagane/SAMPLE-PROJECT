@@ -1,0 +1,12 @@
+# ビルド成果物
+/build
+/dist
+# 依存関係ディレクトリ
+/node_modules
+# ログファイル
+*.log
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+
+.env
